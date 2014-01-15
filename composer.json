@@ -1,0 +1,15 @@
+{
+    "name": "wesnick/pressflow7",
+    "description": "Mirror of Pressflow 7",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "Wesley O. Nichols",
+            "email": "wesley.o.nichols@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+
+    }
+}
